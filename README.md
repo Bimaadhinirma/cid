@@ -1,1 +1,2 @@
-# cid
+# cara make
+caritau sendiri
